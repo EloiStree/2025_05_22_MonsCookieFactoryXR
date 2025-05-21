@@ -1,0 +1,19 @@
+{
+  "name": "be.technocite.cookiefactoryXR" ,
+  "version": "1.0.0",
+  "displayName": "Cookie Factory Mons XR",
+  "description": "Measaure made in Open Brush of Technocite Mons with cookie factory in it",
+  "unity": "2019.1",
+  "samples": [
+    {
+      "displayName": "Demo Scene",
+      "description": "A sample demo scene to show basic functionality.",
+      "path": "Scene/Demo"
+    }
+  ],
+  "author": {
+    "name": "Technocite",
+    "email": "",
+    "url": ""
+  }
+}
